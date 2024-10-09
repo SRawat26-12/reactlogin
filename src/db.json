@@ -1,0 +1,46 @@
+{
+  "customer": [
+    {
+      "name": "shivam",
+      "email": "shivamrawat5310@gmail.com",
+      "userid": 11111,
+      "password": "raawat",
+      "id": "631a"
+    },
+    {
+      "id": "198a",
+      "name": "shivam rawat1",
+      "email": "shivamrawat1053gmail.com",
+      "userid": "ufffyf",
+      "password": "uuggf"
+    },
+    {
+      "id": "7227",
+      "name": "piyush",
+      "email": "shivamrawat1053gmail.com",
+      "userid": "ufffyf",
+      "password": "6746763886746757"
+    },
+    {
+      "id": "5eef",
+      "name": "raj",
+      "email": "shivamrawat1053gmail.com",
+      "userid": "ufffyf",
+      "password": "73878378732"
+    },
+    {
+      "id": "0870",
+      "name": "piyush",
+      "email": "shivamrawat1053gmail.com",
+      "userid": "ufffyf",
+      "password": "76767676567"
+    },
+    {
+      "id": "11a1",
+      "name": "uhfjhjh",
+      "email": "shivamrawat1053gmail.com",
+      "userid": "hfdhd",
+      "password": "hrekhkfh"
+    }
+  ]
+}
